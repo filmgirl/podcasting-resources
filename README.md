@@ -44,7 +44,6 @@ A copy of that presentation is available in this GitHub repo, or by clicking [he
 * [Overtired](http://esn.fm/overtired)
 * [Behind the Tech with Kevin Scott](https://behindthetech.libsynpro.com/)
 
-
 ## Microphone Guides and Reviews
 
 * [The Wirecutter's USB microphone guide](https://thewirecutter.com/reviews/the-best-usb-microphone/)
@@ -60,13 +59,13 @@ A copy of that presentation is available in this GitHub repo, or by clicking [he
 
     This is my secondary microphone that I keep in my office at Microsoft. It's USB and has a number of different input modes (for podcasting, use the mode that looks like a butt) and includes a stand.
 
-    When [my mom was a guest on Rocket](https://www.relay.fm/rocket/150), this is the setup we mailed her and that I was successfully able to get her to use. C-Mom approved! 
+    When [my mom was a guest on Rocket](https://www.relay.fm/rocket/150), this is the setup we mailed her and that I was successfully able to get her to use. C-Mom approved!
 
-* [The Blue Yeti at BuyDig](https://www.buydig.com/shop/product.aspx?sku=BLUEYETIKOGRBN) - $105 as of 8/3/2018 
+* [The Blue Yeti at BuyDig](https://www.buydig.com/shop/product.aspx?sku=BLUEYETIKOGRBN) - $105 as of 8/3/2018
 
 * [Audio-Technica ATR2100](https://www.amazon.com/dp/B004QJOZS4?tag=christinacom-20) $64 as of 8/3/2007
   
-  This microphone has received high marks from Jason Snell and Marco Arment. It's XLR and USB, so it's versatile if you have existing audio equipment or need to use a setup best-suited for XLR (such as multiple microphone inputs into one audio interface). 
+  This microphone has received high marks from Jason Snell and Marco Arment. It's XLR and USB, so it's versatile if you have existing audio equipment or need to use a setup best-suited for XLR (such as multiple microphone inputs into one audio interface).
 
   You'll need to buy a microphone stand for this unit and a wind screen and may benefit from a shock mount. Jason Snell's [$100 Podcast Studio][11] post has good information.
 
@@ -74,14 +73,13 @@ A copy of that presentation is available in this GitHub repo, or by clicking [he
 
 * [Audio-Technica ATR2500](https://www.amazon.com/Audio-Technica-ATR2100-USB-Cardioid-Dynamic-Microphone/dp/B004QJREXM/ref=as_li_ss_tl?linkId=0919132824ac2090de45f2b1135b0163&sr=8-2&linkCode=sl1&keywords=audio-technica%252Batr&qid=1479488629&th=1&tag=christinacom-20&ie=UTF8) - $80 as of 8/3/2018
 
-    This is similar to the ATR2100, but is USB-only and may be easier to mount in a podcast studio. [Dan Benjamin recommends](http://podcastmethod.co/#entry_level) this as an entry-level microphone. 
-
+    This is similar to the ATR2100, but is USB-only and may be easier to mount in a podcast studio. [Dan Benjamin recommends](http://podcastmethod.co/#entry_level) this as an entry-level microphone.
 
 * [The Rode Podcaster Kit](https://www.amazon.com/dp/B007NN0WPU?tag=christinacom-20) - $330 as of 8/3/2018. Includes Rode shock mount and mounting arm. This is the microphone I have primarily used since late 2009.
 
-    I find the audio quality to be slightly better than the Yeti, but not enough to spend an extra $200 on for most users. If you're looking to upgrade to a quality, professional grade USB microphone, this unit has been great for me for nearly nine years and three cities. 
+    I find the audio quality to be slightly better than the Yeti, but not enough to spend an extra $200 on for most users. If you're looking to upgrade to a quality, professional grade USB microphone, this unit has been great for me for nearly nine years and three cities.
 
-* [Heil PR-40 Dynamic Studio Microphone](https://www.amazon.com/dp/B00PQYBRNY?tag=christinacom-20) - $327 as of 8/3/2018 for the microphone only. 
+* [Heil PR-40 Dynamic Studio Microphone](https://www.amazon.com/dp/B00PQYBRNY?tag=christinacom-20) - $327 as of 8/3/2018 for the microphone only.
   
   Leo Laporte from [TWiT](https://www.twit.tv) uses this microphone in his studio and sent me one. It's a great microphone that I should probably use regularly.
   
@@ -99,7 +97,7 @@ If you want an upgrade, any close-backed pair of over-ear headphones or earbuds 
 
 If you find yourself getting more into editing, it's worth investing in a good pair of studio monitor headphones.
 
-The ***best* studio monitors remain the Sony MDR-7506 headphones.** For 27 years, these have been the headphones you see in every single studio, from the lowliest media company to iHeart Radio and every major broadcast network. 
+The ***best* studio monitors remain the Sony MDR-7506 headphones.** For 27 years, these have been the headphones you see in every single studio, from the lowliest media company to iHeart Radio and every major broadcast network.
 
 * [Sony MDR-7506 headphones](https://www.amazon.com/exec/obidos/ASIN/B000AJIF4E/podcastmethod-20?tag=christinacom-20) - $80 as of 8/3/2018
 
@@ -117,14 +115,13 @@ The ***best* studio monitors remain the Sony MDR-7506 headphones.** For 27 years
 
 * [Skype](https://www.skype.com/en/)
 
-
-    For better or worse, Skype is still the best application for recording a podcast with lots of remote users. 
+    For better or worse, Skype is still the best application for recording a podcast with lots of remote users.
 
     You can *theoretically* use any multi-person chat system to record, but Skype tends to have the best audio quality (important if all parties aren't recording locally), is free, and has an array of plugins to make recording easier.
 
 ### Multi-Ender Recording Method Apps
 
-For optimum audio quality, each person on a remote podcast should record their audio on their own. A master Skype recording can be used for a backup, but in an ideal world, each person is recording from their own microphone directly to their computer. 
+For optimum audio quality, each person on a remote podcast should record their audio on their own. A master Skype recording can be used for a backup, but in an ideal world, each person is recording from their own microphone directly to their computer.
 
 Then, in editing, all of the files can be edited together for better quality.
 
@@ -136,7 +133,7 @@ To record your own recording from your own microphone, there are lots of options
   
 * [Audacity][14] On Windows or Linux, Audacity is great for recording your own audio. If you're recording multiple inputs from an external interface, Audacity is a great free tool too.
 
-* [Ecamm's Call Recorder For Skype](https://ecamm.com/mac/callrecorder/) - $40 for Mac. Records local audio (it can also record video) and also records Skype audio from other users. 
+* [Ecamm's Call Recorder For Skype](https://ecamm.com/mac/callrecorder/) - $40 for Mac. Records local audio (it can also record video) and also records Skype audio from other users.
 
 Auto-splits files, which is great for editing.
 
@@ -162,7 +159,7 @@ Non-exhaustive list of podcast hosts that support Apple Podcasts, Google Podcast
 
 Look out for monthly upload quotas and look into their business model/whether they control your podcast's feed with Apple or Google.
 
-* [Anchor.fm][20] - Anchor.fm offers free hosting and supports the major podcast directories. It also has very nice apps for editing podcasts on mobile. 
+* [Anchor.fm][20] - Anchor.fm offers free hosting and supports the major podcast directories. It also has very nice apps for editing podcasts on mobile.
   
   However, Anchor is a startup and its business model continues to evolve. You hand your podcast feeds over to Anchor and have to reach out to them to get them back if you want to switch podcast hosts.
 
@@ -170,12 +167,11 @@ Look out for monthly upload quotas and look into their business model/whether th
 
 * [LibSyn][16] - One of the oldest podcast hosts. Reliable, though pricey for what it offers. Be aware of potentially aggro sales people.
 * [Blubrry][17] - Another OG podcast host, maintainer of the excellent PowerPress WordPress plugin. Includes website.
-* [WordPress.com][18] - $5/month and up plans support audio uploading and can be used for podcasting. 
+* [WordPress.com][18] - $5/month and up plans support audio uploading and can be used for podcasting.
 * [Simplecast][23] - $12 a month, unlimited uploads/bandwidth.
-* [Squarespace][19] - If you have a legacy Squarespace plan, they are a good/easy option for podcasting. Squarespace is likely too expensive to use as a podcast host, but if you also want to use Squarespace as a website builder or store, it's a good option. 
+* [Squarespace][19] - If you have a legacy Squarespace plan, they are a good/easy option for podcasting. Squarespace is likely too expensive to use primarily as a podcast host, but if you also want to use Squarespace as a website builder or store, it's a good option.
 
     You can also embed a podcast feed from any other service into Squarespace.
-
 
 ## DIY Hosting Links
 
@@ -199,7 +195,7 @@ If you want to host yourself using existing hosting/VPS/etc., the ***easiest* wa
 * [Host a podcast for cheap on Amazon S3][25]
 * [Creating an XML podcast feed for iTunes for your custom-hosted feed][26]
 * [Jekyll Podcast Feed][27] - A setup for Jekyll to publish a podcast feed to iTunes.
-* [Castanet - A pocast-oriented for Hugo](https://github.com/mattstratton/castanet/blob/master/layouts/section/episode.rss.xml) - Matt Stratton of [Arrested DevOps](https://www.arresteddevops.com/) built this excellent Hugo theme for podcasters. 
+* [Castanet - A pocast-oriented for Hugo](https://github.com/mattstratton/castanet/blob/master/layouts/section/episode.rss.xml) - Matt Stratton of [Arrested DevOps](https://www.arresteddevops.com/) built this excellent Hugo theme for podcasters.
 
     ArrestedDevOps uses Blubrry for storage/serving, but still crafts their iTunes/Google feeds themselves using Hugo. Check out Matt's [episode example][32] for a feed example if you want to roll your own.
 
@@ -213,8 +209,6 @@ If you want to host yourself using existing hosting/VPS/etc., the ***easiest* wa
 [Podsafe Music Resources](https://create.blubrry.com/manual/creating-podcast-media/podsafe-music/)
 
 Also search for royalty-free services (paid for free), that you can use on your podcast.
-
-
 
 # Contributing
 
