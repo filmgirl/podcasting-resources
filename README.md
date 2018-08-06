@@ -125,7 +125,7 @@ For optimum audio quality, each person on a remote podcast should record their a
 
 Then, in editing, all of the files can be edited together for better quality.
 
-This is known as the multi-ender method, and Jason Snell describes it in his [podcast recording guide](https://sixcolors.com/post/2015/01/how-i-podcast-recording/)
+This is known as the multi-ender method, and Jason Snell describes it in his [podcast recording guide](https://sixcolors.com/post/2015/01/how-i-podcast-recording/).
 
 To record your own recording from your own microphone, there are lots of options:
 
