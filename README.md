@@ -110,7 +110,10 @@ The ***best* studio monitors remain the Sony MDR-7506 headphones.** For 27 years
 * [Adobe Audition CC](https://www.adobe.com/products/audition.html) - If you have access to Creative Cloud, Audition is a great audio editor for the advanced editor.
 * [Logic Pro](https://www.apple.com/logic-pro/) - Logic Pro X is probably overkill for most users, but if you get really into audio editing, it's great.
 * [Forecast][9] - Free Mac utility from Marco Arment that makes adding chapters and exporting podcasts with proper meta-data a breeze.
-
+* [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Rogue Amoeba's "jack of all trades" recording app for Mac makes it easy capture audio from multiple devices and places. $60 USD by itself, cheaper in a Rogue Amoeba audio bundle.
+* [Loopback](https://rogueamoeba.com/loopback/) - The modern update to the classic Soundflower kernel extension, this Mac app is the best way to trick an app like Skype into accepting what looks like one audio interface, but is really several. Useful if recording with multiple users in person, as well as on Skype, on a single machine. $99 USD by itself, cheaper in a Rogue Amoeba audio bundle. Loopback and Audio Hijack area available for $130 together.
+* [Soundflower](https://github.com/mattingalls/Soundflower) and [Soundflower Bed](https://github.com/mLupine/SoundflowerBed/releases) - These apps were the genesis of Loopback. No longer actively maintained, but the GitHub builds linked will work on macOS High Sierra. 
+  
 ### For Setting up a Remote Recording
 
 * [Skype](https://www.skype.com/en/)
@@ -169,7 +172,7 @@ Look out for monthly upload quotas and look into their business model/whether th
 * [Blubrry][17] - Another OG podcast host, maintainer of the excellent PowerPress WordPress plugin. Includes website.
 * [WordPress.com][18] - $5/month and up plans support audio uploading and can be used for podcasting.
 * [Simplecast][23] - $12 a month, unlimited uploads/bandwidth.
-* [Squarespace][19] - If you have a legacy Squarespace plan, they are a good/easy option for podcasting. Squarespace is likely too expensive to use primarily as a podcast host, but if you also want to use Squarespace as a website builder or store, it's a good option.
+* [Squarespace](http://www.squarespace.com/rocket) - If you have a legacy Squarespace plan, they are a good/easy option for podcasting. Squarespace is likely too expensive to use primarily as a podcast host, but if you also want to use Squarespace as a website builder or store, it's a good option. You can use the code 'ROCKET' to get 10% off at sign-up.
 
     You can also embed a podcast feed from any other service into Squarespace.
 
