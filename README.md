@@ -113,6 +113,7 @@ The ***best* studio monitors remain the Sony MDR-7506 headphones.** For 27 years
 * [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Rogue Amoeba's "jack of all trades" recording app for Mac makes it easy capture audio from multiple devices and places. $60 USD by itself, cheaper in a Rogue Amoeba audio bundle.
 * [Loopback](https://rogueamoeba.com/loopback/) - The modern update to the classic Soundflower kernel extension, this Mac app is the best way to trick an app like Skype into accepting what looks like one audio interface, but is really several. Useful if recording with multiple users in person, as well as on Skype, on a single machine. $99 USD by itself, cheaper in a Rogue Amoeba audio bundle. Loopback and Audio Hijack area available for $130 together.
 * [Soundflower](https://github.com/mattingalls/Soundflower) and [Soundflower Bed](https://github.com/mLupine/SoundflowerBed/releases) - These apps were the genesis of Loopback. No longer actively maintained, but the GitHub builds linked will work on macOS High Sierra. 
+* [Reaper](https://www.reaper.fm) - Reaper is available for Mac, Windows, and Linux (Linux support is experimental) and is another professional digital audio editor (a la Audition or Logic Pro), but it is less expensive ($60 for an individual license) and has a really robust community of users. I haven't used Reaper myself, but it is well-regarded in the DAW space and is one of the few "pro" options with Linux support.
   
 ### For Setting up a Remote Recording
 
