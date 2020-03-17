@@ -4,7 +4,7 @@
 [4]: https://www.amazon.com/dp/B002VA464S?tag=thewire06-20&linkCode=xm2&ascsubtag=AgEAAAAAAAAAAJFq
 [5]: https://marco.org/podcasting-microphones
 [6]: https://www.amazon.com/dp/B00PQYBRNY/?tag=marcoorg-20
-[7]: http://podcastmethod.co/
+[7]: https://danbenjamin.com/podcastmethod/
 [8]: http://5by5.tv/podcastmethod
 [9]: https://overcast.fm/forecast
 [10]: http://podcastguestguide.com/
@@ -63,7 +63,7 @@ A copy of that presentation is available in this GitHub repo, or by clicking [he
 
 * [The Blue Yeti at BuyDig](https://www.buydig.com/shop/product.aspx?sku=BLUEYETIKOGRBN) - $105 as of 8/3/2018
 
-* [Audio-Technica ATR2100](https://www.amazon.com/dp/B004QJOZS4?tag=christinacom-20) $64 as of 8/3/2007
+* [Audio-Technica ATR2100x](https://www.amazon.com/dp/B004QJOZS4?tag=christinacom-20) $100 as of 3/17/2020
   
   This microphone has received high marks from Jason Snell and Marco Arment. It's XLR and USB, so it's versatile if you have existing audio equipment or need to use a setup best-suited for XLR (such as multiple microphone inputs into one audio interface).
 
