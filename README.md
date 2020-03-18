@@ -55,35 +55,31 @@ A copy of that presentation is available in this GitHub repo, or by clicking [he
   
 ### The Best USB Microphone for MOST podcasters is the Blue Yeti
 
-* [The Blue Yeti at Amazon](https://www.amazon.com/dp/B002VA464S?tag=christinacom-20) - $125 as of 8/3/2018 (Usually goes on sale during Prime Day and Black Friday)
+* [The Blue Yeti at Amazon](https://www.amazon.com/dp/B002VA464S?tag=christinacom-20) - $130 as of 3/18/2020 (Usually goes on sale during Prime Day and Black Friday)
 
     This is my secondary microphone that I keep in my office at Microsoft. It's USB and has a number of different input modes (for podcasting, use the mode that looks like a butt) and includes a stand.
 
-    When [my mom was a guest on Rocket](https://www.relay.fm/rocket/150), this is the setup we mailed her and that I was successfully able to get her to use. C-Mom approved!
+    As of 3/18/2020, you can get a kit which includes a pop filter and a pair of headphones [for $140 at Amazon](https://www.amazon.com/Blue-Microphone-Slate-Headphones-Filter/dp/B078RX5LKF/ref=sr_1_8?sr=1-8&tag=christinacom-20&keywords=blue%2Byeti&s=musical-instruments&dchild=1&qid=1584549465)
 
-* [The Blue Yeti at BuyDig](https://www.buydig.com/shop/product.aspx?sku=BLUEYETIKOGRBN) - $105 as of 8/3/2018
+    When [my mom was a guest on Rocket](https://www.relay.fm/rocket/150), this is the setup we mailed her and that I was successfully able to get her to use. C-Mom approved!
 
 * [Audio-Technica ATR2100x](https://www.amazon.com/dp/B004QJOZS4?tag=christinacom-20) $100 as of 3/17/2020
   
-  This microphone has received high marks from Jason Snell and Marco Arment. It's XLR and USB, so it's versatile if you have existing audio equipment or need to use a setup best-suited for XLR (such as multiple microphone inputs into one audio interface).
+  The previous version of this microphone (the ATR2100) has received high marks from Jason Snell and Marco Arment. The ATR2100x is XLR and USB, so it's versatile if you have existing audio equipment or need to use a setup best-suited for XLR (such as multiple microphone inputs into one audio interface). It was recently updated and now includes USB-C support. You can read [Jason Snell's review at SixColors](https://sixcolors.com/post/2020/02/review-audio-technica-atr-2100x-microphone/).
 
   You'll need to buy a microphone stand for this unit and a wind screen and may benefit from a shock mount. Jason Snell's [$100 Podcast Studio][11] post has good information.
 
-  When I built-out Mashable's podcast studio (which is just a bunch of microphones and a 4x4 USB mixer), we used the ATR2100 in XLR mode.
+  When I built-out Mashable's podcast studio (which is just a bunch of microphones and a 4x4 USB mixer), we used the older ATR2100 in XLR mode.
 
-* [Audio-Technica ATR2500](https://www.amazon.com/Audio-Technica-ATR2100-USB-Cardioid-Dynamic-Microphone/dp/B004QJREXM/ref=as_li_ss_tl?linkId=0919132824ac2090de45f2b1135b0163&sr=8-2&linkCode=sl1&keywords=audio-technica%252Batr&qid=1479488629&th=1&tag=christinacom-20&ie=UTF8) - $80 as of 8/3/2018
+* [The Rode Podcaster](https://www.amazon.com/Rode-Podcaster-USB-Dynamic-Microphone/dp/B000JM46FY?tag=christinacom-20&ref_=ast_sto_dp) - $230 as of 3/18/2020. You'll need to buy a separate shock mount and some sort of mounting arm or stand separately. This is the microphone I have primarily used since late 2009.
 
-    This is similar to the ATR2100, but is USB-only and may be easier to mount in a podcast studio. [Dan Benjamin recommends](http://podcastmethod.co/#entry_level) this as an entry-level microphone.
+    I find the audio quality to be *slightly* better than the Yeti, but not enough to spend an extra $200 (once accessories are accounted for) for most users. If you're looking to upgrade to a quality, professional grade USB microphone, this unit has been great for me for nearly nine years and three cities.
 
-* [The Rode Podcaster Kit](https://www.amazon.com/dp/B007NN0WPU?tag=christinacom-20) - $330 as of 8/3/2018. Includes Rode shock mount and mounting arm. This is the microphone I have primarily used since late 2009.
-
-    I find the audio quality to be slightly better than the Yeti, but not enough to spend an extra $200 on for most users. If you're looking to upgrade to a quality, professional grade USB microphone, this unit has been great for me for nearly nine years and three cities.
-
-* [Heil PR-40 Dynamic Studio Microphone](https://www.amazon.com/dp/B00PQYBRNY?tag=christinacom-20) - $327 as of 8/3/2018 for the microphone only.
+* [Heil PR-40 Dynamic Studio Microphone](https://www.amazon.com/dp/B00PQYBRNY?tag=christinacom-20) - $330 as of 3/18/2020 for the microphone only.
   
   Leo Laporte from [TWiT](https://www.twit.tv) uses this microphone in his studio and sent me one. It's a great microphone that I should probably use regularly.
   
-  **This is an XLR microphone and WILL require an XLR interface/pre-amp to connect with your computer. The [Scarlett 2i2](https://www.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B01E6T56EA/ref=sr_1_3?sr=1-3&th=1&keywords=scarlett%252B2i4&qid=1533303903&tag=christinacom-20&ie=UTF8&s=musical-instruments) works well with this microphone.**
+  **This is an XLR microphone and WILL require an XLR interface/pre-amp to connect with your computer. The [Scarlett 2i2](https://www.amazon.com/Focusrite-Scarlett-Audio-Interface-AMS-SCARLETT-2I2-3G/dp/B07QR73T66/ref=dp_ob_title_ce?tag=christinacom-20) works well with this microphone.**
 
   This shouldn't be your first podcasting microphone. Get started first and THEN investigate in upgrading your gear if you get serious.
 
@@ -97,9 +93,9 @@ If you want an upgrade, any close-backed pair of over-ear headphones or earbuds 
 
 If you find yourself getting more into editing, it's worth investing in a good pair of studio monitor headphones.
 
-The ***best* studio monitors remain the Sony MDR-7506 headphones.** For 27 years, these have been the headphones you see in every single studio, from the lowliest media company to iHeart Radio and every major broadcast network.
+The ***best* studio monitors remain the Sony MDR-7506 headphones.** For 29 years, these have been the headphones you see in every single studio, from the lowliest media company to iHeart Radio and every major broadcast network.
 
-* [Sony MDR-7506 headphones](https://www.amazon.com/exec/obidos/ASIN/B000AJIF4E/podcastmethod-20?tag=christinacom-20) - $80 as of 8/3/2018
+* [Sony MDR-7506 headphones](https://www.amazon.com/exec/obidos/ASIN/B000AJIF4E/podcastmethod-20?tag=christinacom-20) - $88 as of 3/18/2020
 
     I'm sure there are other perfectly good studio headphones (including the nearly identical [Sony MDR-V6](https://www.amazon.com/Sony-MDRV6-Studio-Monitor-Headphones/dp/B00001WRSJ?tag=christinacom-20) -- those are often priced the same, but if there is a difference of ~$10 or more, buy whatever is cheaper)
 
