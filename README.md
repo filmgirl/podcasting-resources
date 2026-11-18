@@ -168,7 +168,7 @@ Look out for monthly upload quotas and look into their business model/whether th
 * [LibSyn][16] - One of the oldest podcast hosts. Reliable, though pricey for what it offers. Be aware of potentially aggro sales people.
 * [Blubrry][17] - Another OG podcast host, maintainer of the excellent PowerPress WordPress plugin. Includes website.
 * [WordPress.com][18] - $5/month and up plans support audio uploading and can be used for podcasting.
-* [Simplecast][23] - $12 a month, unlimited uploads/bandwidth.
+* [Simplecast][23] - $15 a month ($13.50 a month prepaid annually), unlimited uploads, 20,000 downloads a month included.
 * [Squarespace](http://www.squarespace.com/rocket) - If you have a legacy Squarespace plan, they are a good/easy option for podcasting. Squarespace is likely too expensive to use primarily as a podcast host, but if you also want to use Squarespace as a website builder or store, it's a good option. You can use the code 'ROCKET' to get 10% off at sign-up.
 
     You can also embed a podcast feed from any other service into Squarespace.
